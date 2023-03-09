@@ -1,0 +1,2 @@
+Este es un archivo de texto escrito especificamente para mi, tambien para hacer un push y calculo que un
+commit a mi repositorio.
